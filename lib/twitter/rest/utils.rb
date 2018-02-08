@@ -6,8 +6,6 @@ require 'twitter/user'
 require 'twitter/utils'
 require 'uri'
 
-require 'pp'
-
 module Twitter
   module REST
     module Utils
